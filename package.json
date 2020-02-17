@@ -1,6 +1,6 @@
 {
   "name": "@japan-d2/id2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "the ID converter that can convert between IDs with different orders and character types and unique numeric sequences.",
   "main": "lib/index.js",
   "type": "lib/index.d.ts",
@@ -16,7 +16,7 @@
     "id"
   ],
   "author": "AOKI Yuto <yuto.aoki@japan-d2.com> (https://japan-d2.com)",
-  "homepage": "https://github.com/japan-d2/id2",
+  "homepage": "https://github.com/japan-d2/js-id2",
   "license": "MIT",
   "engines": {
     "node": ">=10.4.0"
