@@ -1,9 +1,9 @@
 {
   "name": "@japan-d2/id2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "the ID converter that can convert between IDs with different orders and character types and unique numeric sequences.",
   "main": "lib/index.js",
-  "type": "lib/index.d.ts",
+  "typings": "lib/index.d.ts",
   "scripts": {
     "test": "jest",
     "build": "tsc -p tsconfig.build.json",
